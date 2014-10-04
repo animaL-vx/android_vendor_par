@@ -44,6 +44,8 @@ PRODUCT_PACKAGES += \
     mount.exfat \
     fsck.exfat \
     mkfs.exfat
+	ntfsfix \
+	ntfs-3g 
 
 # Stagefright FFMPEG plugin
 PRODUCT_PACKAGES += \
