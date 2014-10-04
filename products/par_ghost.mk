@@ -34,6 +34,6 @@ PRODUCT_RELEASE_NAME := Moto X
 PRODUCT_NAME := par_ghost
 
 # Inherit AOSP device configuration
-$(call inherit-product, device/motorola/ghost/full_ghost.mk)
+$(call inherit-product, device/motorola/ghost/par_ghost.mk)
 
 endif
