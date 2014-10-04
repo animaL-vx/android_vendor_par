@@ -43,7 +43,7 @@ PRODUCT_PACKAGES += \
     e2fsck \
     mount.exfat \
     fsck.exfat \
-    mkfs.exfat
+    mkfs.exfat \
 	ntfsfix \
 	ntfs-3g 
 
